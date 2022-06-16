@@ -54,5 +54,5 @@ for m in range(0, len(vals), 1):
 newst = "".join(str(x) for x in newst)
 
 # print the output string
-
+print()
 print(newst)
